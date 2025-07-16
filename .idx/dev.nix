@@ -5,7 +5,7 @@
   ];
   env = {
     PUBLIC_API_URL="https://projects.vistortch.edu";
-    PUBLIC_STUDIO_URL="https://studio.vistortch.edu";
+    PUBLIC_STUDIO_URL="https://editor.vistortch.edu";
     PUBLIC_MAX_UPLOAD_SIZE="32";
     PUBLIC_CAPTCHA_ENABLED="true";
   };
