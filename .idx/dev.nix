@@ -4,8 +4,8 @@
     pkgs.nodejs_20
   ];
   env = {
-    PUBLIC_API_URL="https://projects.penguinmod.com";
-    PUBLIC_STUDIO_URL="https://studio.penguinmod.com";
+    PUBLIC_API_URL="https://projects.vistortch.edu";
+    PUBLIC_STUDIO_URL="https://studio.vistortch.edu";
     PUBLIC_MAX_UPLOAD_SIZE="32";
     PUBLIC_CAPTCHA_ENABLED="true";
   };
