@@ -1,6 +1,6 @@
 {
-	"name": "penguinmod-home",
-	"version": "0.0.1",
+	"name": "vistortch-home",
+	"version": "0.01",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
