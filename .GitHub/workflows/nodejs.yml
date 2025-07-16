@@ -22,7 +22,7 @@ jobs:
 
           event-type: update
 
-          repository: PenguinMod/penguinmod.github.io
+          repository: https://github.com/den49kRealAkk
 
       - name: Repository Dispatch2
 
@@ -34,4 +34,4 @@ jobs:
 
           event-type: update
 
-          repository: PenguinMod/PenguinMod-Packager
+          repository: Vistortch/Vistortch-Packager
